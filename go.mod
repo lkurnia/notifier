@@ -1,4 +1,4 @@
-module lkurnia/notifier
+module github.com/lkurnia/notifier
 
 go 1.25.4
 

@@ -1,7 +1,7 @@
 package client
 
 import (
-	"lkurnia/notifier/lib/request"
+	"github.com/lkurnia/notifier/lib/request"
 )
 
 type Notifier struct {

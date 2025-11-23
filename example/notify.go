@@ -6,7 +6,7 @@ import (
 
 	"github.com/joho/godotenv"
 
-	"lkurnia/notifier/client"
+	"github.com/lkurnia/notifier/client"
 )
 
 func main() {
